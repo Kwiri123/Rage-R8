@@ -1,0 +1,7 @@
+version = "r8"
+group = "by.thefleksiscekcu"
+
+subprojects {
+    version = "r8"
+    group = "by.thefleksiscekcu"
+}

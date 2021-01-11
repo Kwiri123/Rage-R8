@@ -1,0 +1,16 @@
+[
+{
+  "modid": "inceptice",
+  "name": "Inceptice",
+  "description": "A hacked injection client for Minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["NulledSquad"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
