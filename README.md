@@ -8,4 +8,4 @@ idfc for bugs/crashes, i've fixed src in 1 hour
 
 special thanks to noom for helping
 
-now ur client is gunna get patched. :)
+now ur client gunna get patched. :)
